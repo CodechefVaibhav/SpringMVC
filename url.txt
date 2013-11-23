@@ -1,0 +1,7 @@
+Run on this url
+
+
+http://localhost:8080/SpringMVC/
+
+
+for this i was using jetty server...
